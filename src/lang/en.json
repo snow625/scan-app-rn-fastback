@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "Auth": {
+      "Login": {
+        "email_input_label": "Email",
+        "password_input_label": "Password",
+        "button_text": "Login",
+        "headerTitle": "Sign in",
+        "toRegisterScreen": "Register"
+      },
+      "Register": {
+        "email_input_label": "Email",
+        "password_input_label": "Password",
+        "password_confirm_input_label": "Password confirm",
+        "button_text": "Register",
+        "headerBackButton": "Back to Login",
+        "screenTitle": "Register"
+      }
+    }
+  }
+}

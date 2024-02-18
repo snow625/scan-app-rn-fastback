@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "base_rn",
+    "slug": "base_rn",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "60fa9cbc-71b6-4c2a-b8ba-d58263b25acc"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "owner": "snow625",
+    "updates": {
+      "url": "https://u.expo.dev/60fa9cbc-71b6-4c2a-b8ba-d58263b25acc"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
